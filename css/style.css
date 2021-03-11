@@ -165,7 +165,7 @@
     .nav-link.active::after {
         content: '';
         display: block;
-        border-bottom: 3px solid #0B63DC;
+        border-bottom: 3px solid #dc0b0b;
         margin: auto;
         margin-bottom: -8px;
         width: 50%;
